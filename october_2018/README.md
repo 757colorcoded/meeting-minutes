@@ -2,18 +2,18 @@
 
 ## Appointed positions of the org
 
-**Guillermo Fisher** - President
-**Tonia Seenauth** - Vice President
-**Troy Connor** - Secretary
-**Chazona Baum** - Treasury
+- **Guillermo Fisher** - President
+- **Tonia Seenauth** - Vice President
+- **Troy Connor** - Secretary
+- **Chazona Baum** - Treasury
 
 ## Responsibilities of members
 
-**Guillermo Fisher** - Sponsorships
-**Omar Jackman** - Communications/Engineering
-**Tonia Seenauth** - Community Outreach
-**Lisa Fisher** - Events
-**Troy Connor** - Open Source
+- **Guillermo Fisher** - Sponsorships
+- **Omar Jackman** - Communications/Engineering
+- **Tonia Seenauth** - Community Outreach
+- **Lisa Fisher** - Events
+- **Troy Connor** - Open Source
 
 - Mirroring blogs to newly created website can be done
 - Competition for logo _(Random swag can be the prize)_
